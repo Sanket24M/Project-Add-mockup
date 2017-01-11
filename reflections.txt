@@ -1,0 +1,66 @@
+Q.You've learned a lot about web development so far?
+Ams: I have learnt to create basic HTML tree structure
+I have learnt to implement following tags:
+<p> to create papr
+<img>,<figure><figcaption> to insert image
+<a> to insert links
+<Head><title><meta>
+<body>
+
+<h1>
+<h2>
+<h3>
+<h4>
+
+<s>
+text formattinh tags
+<em><b><i>
+
+
+and learned to implement them successfully in code
+
+
+Q. I want you to take a moment to write down your thoughts about web development here.
+Ans.
+1.Web developement gives me to design beautiful websites and unleash my creativity
+2.it gives power to put my work on web
+3. enables me to design valuable and useful working apps which can be created and used in any sector.
+4.LEarning web developement is not easy, but is wort to learn and is equally rewarding.While leearninf it I have
+to overcome many barriers of my knowledge,capabilities, but these barriers are easy to overcome due to available resources 
+and help
+
+
+Q.What has been easy?
+Ans;
+
+Completing the project inspite of the barriers was fulfilling and easy
+
+Q.What new skills have you learned?
+ 
+Ans:
+
+I have learnt to solve problem by searching for solution online
+I have learnt to write html code and implement it successfully
+
+
+
+Q.What has been difficult?
+Ans
+As far nothing was really difficult
+but 
+searching the answer for my own 
+and dealind with frustrating when things dont work again and again was little difficult.
+
+
+Q.How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+Ans:
+
+The startegies have really worked for me 
+
+if i am stuck 
+I ask myself what can i learn from It?
+
+has helped me to run through the problem
+
+ 
